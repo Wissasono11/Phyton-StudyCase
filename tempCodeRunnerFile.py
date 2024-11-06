@@ -1,0 +1,1 @@
+karakter = string.digits + string.ascii_letters
